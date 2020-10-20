@@ -1,0 +1,293 @@
+"Any","Trimestre","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Superfície_mitjana","Nombre"
+2018,"1",1,"Ciutat Vella",1,"el Raval","m2_construïts",61.9
+2018,"1",1,"Ciutat Vella",2,"el Barri Gòtic","m2_construïts",83.6
+2018,"1",1,"Ciutat Vella",3,"la Barceloneta","m2_construïts",57.6
+2018,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","m2_construïts",70
+2018,"1",2,"Eixample",5,"el Fort Pienc","m2_construïts",76.8
+2018,"1",2,"Eixample",6,"la Sagrada Família","m2_construïts",68.2
+2018,"1",2,"Eixample",7,"la Dreta de l'Eixample","m2_construïts",98.6
+2018,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","m2_construïts",84.5
+2018,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","m2_construïts",73.7
+2018,"1",2,"Eixample",10,"Sant Antoni","m2_construïts",76.2
+2018,"1",3,"Sants-Montjuïc",11,"el Poble Sec","m2_construïts",59.1
+2018,"1",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","m2_construïts",NA
+2018,"1",3,"Sants-Montjuïc",13,"la Marina de Port","m2_construïts",72.6
+2018,"1",3,"Sants-Montjuïc",14,"la Font de la Guatlla","m2_construïts",68.5
+2018,"1",3,"Sants-Montjuïc",15,"Hostafrancs","m2_construïts",60.3
+2018,"1",3,"Sants-Montjuïc",16,"la Bordeta","m2_construïts",66.4
+2018,"1",3,"Sants-Montjuïc",17,"Sants - Badal","m2_construïts",64.2
+2018,"1",3,"Sants-Montjuïc",18,"Sants","m2_construïts",65.3
+2018,"1",4,"Les Corts",19,"les Corts","m2_construïts",71
+2018,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","m2_construïts",70.5
+2018,"1",4,"Les Corts",21,"Pedralbes","m2_construïts",124
+2018,"1",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","m2_construïts",77.8
+2018,"1",5,"Sarrià-Sant Gervasi",23,"Sarrià","m2_construïts",81.6
+2018,"1",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","m2_construïts",99.1
+2018,"1",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","m2_construïts",85.7
+2018,"1",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","m2_construïts",100
+2018,"1",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","m2_construïts",71.7
+2018,"1",6,"Gràcia",28,"Vallcarca i els Penitents","m2_construïts",70.9
+2018,"1",6,"Gràcia",29,"el Coll","m2_construïts",63.1
+2018,"1",6,"Gràcia",30,"la Salut","m2_construïts",71.1
+2018,"1",6,"Gràcia",31,"la Vila de Gràcia","m2_construïts",66.3
+2018,"1",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","m2_construïts",69.6
+2018,"1",7,"Horta-Guinardó",33,"el Baix Guinardó","m2_construïts",67.9
+2018,"1",7,"Horta-Guinardó",34,"Can Baró","m2_construïts",63.8
+2018,"1",7,"Horta-Guinardó",35,"el Guinardó","m2_construïts",66.1
+2018,"1",7,"Horta-Guinardó",36,"la Font d'en Fargues","m2_construïts",72.7
+2018,"1",7,"Horta-Guinardó",37,"el Carmel","m2_construïts",59.4
+2018,"1",7,"Horta-Guinardó",38,"la Teixonera","m2_construïts",61.9
+2018,"1",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","m2_construïts",69.4
+2018,"1",7,"Horta-Guinardó",40,"Montbau","m2_construïts",70
+2018,"1",7,"Horta-Guinardó",41,"la Vall d'Hebron","m2_construïts",80.4
+2018,"1",7,"Horta-Guinardó",42,"la Clota","m2_construïts",38
+2018,"1",7,"Horta-Guinardó",43,"Horta","m2_construïts",67.5
+2018,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","m2_construïts",66.1
+2018,"1",8,"Nou Barris",45,"Porta","m2_construïts",62.8
+2018,"1",8,"Nou Barris",46,"el Turó de la Peira","m2_construïts",59.2
+2018,"1",8,"Nou Barris",47,"Can Peguera","m2_construïts",NA
+2018,"1",8,"Nou Barris",48,"la Guineueta","m2_construïts",72.4
+2018,"1",8,"Nou Barris",49,"Canyelles","m2_construïts",84.5
+2018,"1",8,"Nou Barris",50,"les Roquetes","m2_construïts",55.2
+2018,"1",8,"Nou Barris",51,"Verdun","m2_construïts",55.9
+2018,"1",8,"Nou Barris",52,"la Prosperitat","m2_construïts",57.1
+2018,"1",8,"Nou Barris",53,"la Trinitat Nova","m2_construïts",52.3
+2018,"1",8,"Nou Barris",54,"Torre Baró","m2_construïts",61.3
+2018,"1",8,"Nou Barris",55,"Ciutat Meridiana","m2_construïts",57.5
+2018,"1",8,"Nou Barris",56,"Vallbona","m2_construïts",46
+2018,"1",9,"Sant Andreu",57,"la Trinitat Vella","m2_construïts",59.3
+2018,"1",9,"Sant Andreu",58,"Baró de Viver","m2_construïts",86
+2018,"1",9,"Sant Andreu",59,"el Bon Pastor","m2_construïts",65.2
+2018,"1",9,"Sant Andreu",60,"Sant Andreu","m2_construïts",66.8
+2018,"1",9,"Sant Andreu",61,"la Sagrera","m2_construïts",68
+2018,"1",9,"Sant Andreu",62,"el Congrés i els Indians","m2_construïts",68.7
+2018,"1",9,"Sant Andreu",63,"Navas","m2_construïts",68.2
+2018,"1",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","m2_construïts",65.3
+2018,"1",10,"Sant Martí",65,"el Clot","m2_construïts",72.6
+2018,"1",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","m2_construïts",71.4
+2018,"1",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","m2_construïts",83.9
+2018,"1",10,"Sant Martí",68,"el Poblenou","m2_construïts",66.9
+2018,"1",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","m2_construïts",85.6
+2018,"1",10,"Sant Martí",70,"el Besòs i el Maresme","m2_construïts",67.2
+2018,"1",10,"Sant Martí",71,"Provençals del Poblenou","m2_construïts",72.7
+2018,"1",10,"Sant Martí",72,"Sant Martí de Provençals","m2_construïts",72.9
+2018,"1",10,"Sant Martí",73,"la Verneda i la Pau","m2_construïts",70.2
+2018,"2",1,"Ciutat Vella",1,"el Raval","m2_construïts",62.9
+2018,"2",1,"Ciutat Vella",2,"el Barri Gòtic","m2_construïts",78.9
+2018,"2",1,"Ciutat Vella",3,"la Barceloneta","m2_construïts",60.2
+2018,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","m2_construïts",70.3
+2018,"2",2,"Eixample",5,"el Fort Pienc","m2_construïts",76
+2018,"2",2,"Eixample",6,"la Sagrada Família","m2_construïts",69.4
+2018,"2",2,"Eixample",7,"la Dreta de l'Eixample","m2_construïts",102
+2018,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","m2_construïts",81.5
+2018,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","m2_construïts",73.6
+2018,"2",2,"Eixample",10,"Sant Antoni","m2_construïts",73.5
+2018,"2",3,"Sants-Montjuïc",11,"el Poble Sec","m2_construïts",61.1
+2018,"2",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","m2_construïts",99
+2018,"2",3,"Sants-Montjuïc",13,"la Marina de Port","m2_construïts",70.3
+2018,"2",3,"Sants-Montjuïc",14,"la Font de la Guatlla","m2_construïts",66.6
+2018,"2",3,"Sants-Montjuïc",15,"Hostafrancs","m2_construïts",62.2
+2018,"2",3,"Sants-Montjuïc",16,"la Bordeta","m2_construïts",68.3
+2018,"2",3,"Sants-Montjuïc",17,"Sants - Badal","m2_construïts",61.1
+2018,"2",3,"Sants-Montjuïc",18,"Sants","m2_construïts",66.8
+2018,"2",4,"Les Corts",19,"les Corts","m2_construïts",75.1
+2018,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","m2_construïts",74.4
+2018,"2",4,"Les Corts",21,"Pedralbes","m2_construïts",99.1
+2018,"2",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","m2_construïts",74.8
+2018,"2",5,"Sarrià-Sant Gervasi",23,"Sarrià","m2_construïts",84.1
+2018,"2",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","m2_construïts",94.1
+2018,"2",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","m2_construïts",91
+2018,"2",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","m2_construïts",96.5
+2018,"2",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","m2_construïts",71.4
+2018,"2",6,"Gràcia",28,"Vallcarca i els Penitents","m2_construïts",74
+2018,"2",6,"Gràcia",29,"el Coll","m2_construïts",63.1
+2018,"2",6,"Gràcia",30,"la Salut","m2_construïts",71.7
+2018,"2",6,"Gràcia",31,"la Vila de Gràcia","m2_construïts",66.8
+2018,"2",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","m2_construïts",68.2
+2018,"2",7,"Horta-Guinardó",33,"el Baix Guinardó","m2_construïts",68.4
+2018,"2",7,"Horta-Guinardó",34,"Can Baró","m2_construïts",62.5
+2018,"2",7,"Horta-Guinardó",35,"el Guinardó","m2_construïts",66.1
+2018,"2",7,"Horta-Guinardó",36,"la Font d'en Fargues","m2_construïts",69.4
+2018,"2",7,"Horta-Guinardó",37,"el Carmel","m2_construïts",59.5
+2018,"2",7,"Horta-Guinardó",38,"la Teixonera","m2_construïts",59.6
+2018,"2",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","m2_construïts",68.4
+2018,"2",7,"Horta-Guinardó",40,"Montbau","m2_construïts",70.3
+2018,"2",7,"Horta-Guinardó",41,"la Vall d'Hebron","m2_construïts",73.6
+2018,"2",7,"Horta-Guinardó",42,"la Clota","m2_construïts",43
+2018,"2",7,"Horta-Guinardó",43,"Horta","m2_construïts",67
+2018,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","m2_construïts",67.9
+2018,"2",8,"Nou Barris",45,"Porta","m2_construïts",64.3
+2018,"2",8,"Nou Barris",46,"el Turó de la Peira","m2_construïts",61.9
+2018,"2",8,"Nou Barris",47,"Can Peguera","m2_construïts",NA
+2018,"2",8,"Nou Barris",48,"la Guineueta","m2_construïts",73.3
+2018,"2",8,"Nou Barris",49,"Canyelles","m2_construïts",73.7
+2018,"2",8,"Nou Barris",50,"les Roquetes","m2_construïts",54.8
+2018,"2",8,"Nou Barris",51,"Verdun","m2_construïts",56.8
+2018,"2",8,"Nou Barris",52,"la Prosperitat","m2_construïts",59.5
+2018,"2",8,"Nou Barris",53,"la Trinitat Nova","m2_construïts",49.4
+2018,"2",8,"Nou Barris",54,"Torre Baró","m2_construïts",61
+2018,"2",8,"Nou Barris",55,"Ciutat Meridiana","m2_construïts",58.7
+2018,"2",8,"Nou Barris",56,"Vallbona","m2_construïts",NA
+2018,"2",9,"Sant Andreu",57,"la Trinitat Vella","m2_construïts",61.2
+2018,"2",9,"Sant Andreu",58,"Baró de Viver","m2_construïts",81
+2018,"2",9,"Sant Andreu",59,"el Bon Pastor","m2_construïts",62.9
+2018,"2",9,"Sant Andreu",60,"Sant Andreu","m2_construïts",66.2
+2018,"2",9,"Sant Andreu",61,"la Sagrera","m2_construïts",68.1
+2018,"2",9,"Sant Andreu",62,"el Congrés i els Indians","m2_construïts",68.7
+2018,"2",9,"Sant Andreu",63,"Navas","m2_construïts",69.7
+2018,"2",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","m2_construïts",63.9
+2018,"2",10,"Sant Martí",65,"el Clot","m2_construïts",67.3
+2018,"2",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","m2_construïts",69.9
+2018,"2",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","m2_construïts",81.6
+2018,"2",10,"Sant Martí",68,"el Poblenou","m2_construïts",72.1
+2018,"2",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","m2_construïts",78.5
+2018,"2",10,"Sant Martí",70,"el Besòs i el Maresme","m2_construïts",63
+2018,"2",10,"Sant Martí",71,"Provençals del Poblenou","m2_construïts",69.4
+2018,"2",10,"Sant Martí",72,"Sant Martí de Provençals","m2_construïts",70.7
+2018,"2",10,"Sant Martí",73,"la Verneda i la Pau","m2_construïts",67
+2018,"3",1,"Ciutat Vella",1,"el Raval","m2_construïts",64.1
+2018,"3",1,"Ciutat Vella",2,"el Barri Gòtic","m2_construïts",82
+2018,"3",1,"Ciutat Vella",3,"la Barceloneta","m2_construïts",58.8
+2018,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","m2_construïts",70.5
+2018,"3",2,"Eixample",5,"el Fort Pienc","m2_construïts",75.6
+2018,"3",2,"Eixample",6,"la Sagrada Família","m2_construïts",69
+2018,"3",2,"Eixample",7,"la Dreta de l'Eixample","m2_construïts",94.1
+2018,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","m2_construïts",84.2
+2018,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","m2_construïts",73.7
+2018,"3",2,"Eixample",10,"Sant Antoni","m2_construïts",76.4
+2018,"3",3,"Sants-Montjuïc",11,"el Poble Sec","m2_construïts",60
+2018,"3",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","m2_construïts",NA
+2018,"3",3,"Sants-Montjuïc",13,"la Marina de Port","m2_construïts",71.8
+2018,"3",3,"Sants-Montjuïc",14,"la Font de la Guatlla","m2_construïts",72.7
+2018,"3",3,"Sants-Montjuïc",15,"Hostafrancs","m2_construïts",63.8
+2018,"3",3,"Sants-Montjuïc",16,"la Bordeta","m2_construïts",68.4
+2018,"3",3,"Sants-Montjuïc",17,"Sants - Badal","m2_construïts",61.4
+2018,"3",3,"Sants-Montjuïc",18,"Sants","m2_construïts",66.9
+2018,"3",4,"Les Corts",19,"les Corts","m2_construïts",74.7
+2018,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","m2_construïts",75.3
+2018,"3",4,"Les Corts",21,"Pedralbes","m2_construïts",120.8
+2018,"3",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","m2_construïts",85.1
+2018,"3",5,"Sarrià-Sant Gervasi",23,"Sarrià","m2_construïts",82.9
+2018,"3",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","m2_construïts",109.4
+2018,"3",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","m2_construïts",88.3
+2018,"3",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","m2_construïts",100.7
+2018,"3",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","m2_construïts",72.9
+2018,"3",6,"Gràcia",28,"Vallcarca i els Penitents","m2_construïts",70.3
+2018,"3",6,"Gràcia",29,"el Coll","m2_construïts",62.7
+2018,"3",6,"Gràcia",30,"la Salut","m2_construïts",70
+2018,"3",6,"Gràcia",31,"la Vila de Gràcia","m2_construïts",66.6
+2018,"3",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","m2_construïts",68.9
+2018,"3",7,"Horta-Guinardó",33,"el Baix Guinardó","m2_construïts",70.1
+2018,"3",7,"Horta-Guinardó",34,"Can Baró","m2_construïts",62.3
+2018,"3",7,"Horta-Guinardó",35,"el Guinardó","m2_construïts",67.3
+2018,"3",7,"Horta-Guinardó",36,"la Font d'en Fargues","m2_construïts",70
+2018,"3",7,"Horta-Guinardó",37,"el Carmel","m2_construïts",59.4
+2018,"3",7,"Horta-Guinardó",38,"la Teixonera","m2_construïts",58.8
+2018,"3",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","m2_construïts",70.2
+2018,"3",7,"Horta-Guinardó",40,"Montbau","m2_construïts",67.8
+2018,"3",7,"Horta-Guinardó",41,"la Vall d'Hebron","m2_construïts",70.9
+2018,"3",7,"Horta-Guinardó",42,"la Clota","m2_construïts",85
+2018,"3",7,"Horta-Guinardó",43,"Horta","m2_construïts",63.1
+2018,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","m2_construïts",65.1
+2018,"3",8,"Nou Barris",45,"Porta","m2_construïts",64.2
+2018,"3",8,"Nou Barris",46,"el Turó de la Peira","m2_construïts",62.1
+2018,"3",8,"Nou Barris",47,"Can Peguera","m2_construïts",54
+2018,"3",8,"Nou Barris",48,"la Guineueta","m2_construïts",69.6
+2018,"3",8,"Nou Barris",49,"Canyelles","m2_construïts",82.2
+2018,"3",8,"Nou Barris",50,"les Roquetes","m2_construïts",55.2
+2018,"3",8,"Nou Barris",51,"Verdun","m2_construïts",53.8
+2018,"3",8,"Nou Barris",52,"la Prosperitat","m2_construïts",58
+2018,"3",8,"Nou Barris",53,"la Trinitat Nova","m2_construïts",49.1
+2018,"3",8,"Nou Barris",54,"Torre Baró","m2_construïts",60.8
+2018,"3",8,"Nou Barris",55,"Ciutat Meridiana","m2_construïts",58.7
+2018,"3",8,"Nou Barris",56,"Vallbona","m2_construïts",72
+2018,"3",9,"Sant Andreu",57,"la Trinitat Vella","m2_construïts",60.3
+2018,"3",9,"Sant Andreu",58,"Baró de Viver","m2_construïts",75.4
+2018,"3",9,"Sant Andreu",59,"el Bon Pastor","m2_construïts",64.5
+2018,"3",9,"Sant Andreu",60,"Sant Andreu","m2_construïts",66.6
+2018,"3",9,"Sant Andreu",61,"la Sagrera","m2_construïts",67.4
+2018,"3",9,"Sant Andreu",62,"el Congrés i els Indians","m2_construïts",66.1
+2018,"3",9,"Sant Andreu",63,"Navas","m2_construïts",71.3
+2018,"3",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","m2_construïts",66.3
+2018,"3",10,"Sant Martí",65,"el Clot","m2_construïts",68.6
+2018,"3",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","m2_construïts",69.1
+2018,"3",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","m2_construïts",85.9
+2018,"3",10,"Sant Martí",68,"el Poblenou","m2_construïts",70.8
+2018,"3",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","m2_construïts",63.4
+2018,"3",10,"Sant Martí",70,"el Besòs i el Maresme","m2_construïts",64.6
+2018,"3",10,"Sant Martí",71,"Provençals del Poblenou","m2_construïts",68.2
+2018,"3",10,"Sant Martí",72,"Sant Martí de Provençals","m2_construïts",71.8
+2018,"3",10,"Sant Martí",73,"la Verneda i la Pau","m2_construïts",68.3
+2018,"4",1,"Ciutat Vella",1,"el Raval","m2_construïts",63.8
+2018,"4",1,"Ciutat Vella",2,"el Barri Gòtic","m2_construïts",80.7
+2018,"4",1,"Ciutat Vella",3,"la Barceloneta","m2_construïts",58.5
+2018,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","m2_construïts",73.9
+2018,"4",2,"Eixample",5,"el Fort Pienc","m2_construïts",76.1
+2018,"4",2,"Eixample",6,"la Sagrada Família","m2_construïts",69.3
+2018,"4",2,"Eixample",7,"la Dreta de l'Eixample","m2_construïts",100.4
+2018,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","m2_construïts",86.9
+2018,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","m2_construïts",75.1
+2018,"4",2,"Eixample",10,"Sant Antoni","m2_construïts",76
+2018,"4",3,"Sants-Montjuïc",11,"el Poble Sec","m2_construïts",60.5
+2018,"4",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","m2_construïts",70
+2018,"4",3,"Sants-Montjuïc",13,"la Marina de Port","m2_construïts",70.6
+2018,"4",3,"Sants-Montjuïc",14,"la Font de la Guatlla","m2_construïts",66.2
+2018,"4",3,"Sants-Montjuïc",15,"Hostafrancs","m2_construïts",61.8
+2018,"4",3,"Sants-Montjuïc",16,"la Bordeta","m2_construïts",67.2
+2018,"4",3,"Sants-Montjuïc",17,"Sants - Badal","m2_construïts",64.6
+2018,"4",3,"Sants-Montjuïc",18,"Sants","m2_construïts",65.9
+2018,"4",4,"Les Corts",19,"les Corts","m2_construïts",73.9
+2018,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","m2_construïts",76
+2018,"4",4,"Les Corts",21,"Pedralbes","m2_construïts",107.1
+2018,"4",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","m2_construïts",69.6
+2018,"4",5,"Sarrià-Sant Gervasi",23,"Sarrià","m2_construïts",83.2
+2018,"4",5,"Sarrià-Sant Gervasi",24,"les Tres Torres","m2_construïts",101.9
+2018,"4",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","m2_construïts",85.6
+2018,"4",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","m2_construïts",96.6
+2018,"4",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","m2_construïts",75.4
+2018,"4",6,"Gràcia",28,"Vallcarca i els Penitents","m2_construïts",71.6
+2018,"4",6,"Gràcia",29,"el Coll","m2_construïts",66.6
+2018,"4",6,"Gràcia",30,"la Salut","m2_construïts",72.9
+2018,"4",6,"Gràcia",31,"la Vila de Gràcia","m2_construïts",66.4
+2018,"4",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","m2_construïts",70.1
+2018,"4",7,"Horta-Guinardó",33,"el Baix Guinardó","m2_construïts",68.9
+2018,"4",7,"Horta-Guinardó",34,"Can Baró","m2_construïts",62.6
+2018,"4",7,"Horta-Guinardó",35,"el Guinardó","m2_construïts",66.4
+2018,"4",7,"Horta-Guinardó",36,"la Font d'en Fargues","m2_construïts",70.9
+2018,"4",7,"Horta-Guinardó",37,"el Carmel","m2_construïts",58.3
+2018,"4",7,"Horta-Guinardó",38,"la Teixonera","m2_construïts",61.5
+2018,"4",7,"Horta-Guinardó",39,"Sant Genís dels Agudells","m2_construïts",70.9
+2018,"4",7,"Horta-Guinardó",40,"Montbau","m2_construïts",67.2
+2018,"4",7,"Horta-Guinardó",41,"la Vall d'Hebron","m2_construïts",73
+2018,"4",7,"Horta-Guinardó",42,"la Clota","m2_construïts",82.3
+2018,"4",7,"Horta-Guinardó",43,"Horta","m2_construïts",65.6
+2018,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","m2_construïts",67.7
+2018,"4",8,"Nou Barris",45,"Porta","m2_construïts",62.5
+2018,"4",8,"Nou Barris",46,"el Turó de la Peira","m2_construïts",61.7
+2018,"4",8,"Nou Barris",47,"Can Peguera","m2_construïts",57
+2018,"4",8,"Nou Barris",48,"la Guineueta","m2_construïts",71.5
+2018,"4",8,"Nou Barris",49,"Canyelles","m2_construïts",77.1
+2018,"4",8,"Nou Barris",50,"les Roquetes","m2_construïts",58.6
+2018,"4",8,"Nou Barris",51,"Verdun","m2_construïts",55.7
+2018,"4",8,"Nou Barris",52,"la Prosperitat","m2_construïts",57.7
+2018,"4",8,"Nou Barris",53,"la Trinitat Nova","m2_construïts",51.6
+2018,"4",8,"Nou Barris",54,"Torre Baró","m2_construïts",52.7
+2018,"4",8,"Nou Barris",55,"Ciutat Meridiana","m2_construïts",59.7
+2018,"4",8,"Nou Barris",56,"Vallbona","m2_construïts",99
+2018,"4",9,"Sant Andreu",57,"la Trinitat Vella","m2_construïts",60.9
+2018,"4",9,"Sant Andreu",58,"Baró de Viver","m2_construïts",75.3
+2018,"4",9,"Sant Andreu",59,"el Bon Pastor","m2_construïts",67.5
+2018,"4",9,"Sant Andreu",60,"Sant Andreu","m2_construïts",66.3
+2018,"4",9,"Sant Andreu",61,"la Sagrera","m2_construïts",66.9
+2018,"4",9,"Sant Andreu",62,"el Congrés i els Indians","m2_construïts",68.7
+2018,"4",9,"Sant Andreu",63,"Navas","m2_construïts",70.3
+2018,"4",10,"Sant Martí",64,"el Camp de l'Arpa del Clot","m2_construïts",64.3
+2018,"4",10,"Sant Martí",65,"el Clot","m2_construïts",73.8
+2018,"4",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","m2_construïts",71.5
+2018,"4",10,"Sant Martí",67,"la Vila Olímpica del Poblenou","m2_construïts",82.7
+2018,"4",10,"Sant Martí",68,"el Poblenou","m2_construïts",68.1
+2018,"4",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","m2_construïts",74.9
+2018,"4",10,"Sant Martí",70,"el Besòs i el Maresme","m2_construïts",62.9
+2018,"4",10,"Sant Martí",71,"Provençals del Poblenou","m2_construïts",72.4
+2018,"4",10,"Sant Martí",72,"Sant Martí de Provençals","m2_construïts",73.9
+2018,"4",10,"Sant Martí",73,"la Verneda i la Pau","m2_construïts",65.9
