@@ -21,7 +21,7 @@ For the __URL to the visualization__, see the Jupyter Notebook `notebook.ipynb`.
 ## Introduction
 The project develops an Artificial Intelligence architecture based on a Convolutional Neural Network that, through the city's topological information (connection between districts / neighborhoods), is able of predict different data associated with it. A correct prediction using only spatial information will not only provide a good estimate of this value, but also a clear relationship between it and its location within the city.
 
-MUY BIEN PARA TIPO TERRITORIO
+This project aims to correlate results of the Open Data Barcelona's website to the topology of the city thus, avoiding any external work of relating the data by hand between different neighborhoods/districts.
 
 
 ### Understanding the city as a graph
