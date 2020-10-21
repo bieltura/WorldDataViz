@@ -81,10 +81,10 @@ Below you'll find this architecture trained for 3 different problems (see `datas
 ## Tutorial
 The implementation of this project can be found in the Jupyter Notebook `notebook.ipynb`. All the parameters are detailed in the explanation of each section.
 
-To run the attached notebook, make sure your Python environment has installed all the packaged required in the `requiriments.txt` file. To do so run the following command (`pip`):
+To run the attached notebook, make sure your Python environment has installed all the packaged required in the `requirements.txt` file. To do so run the following command (`pip`):
 
 ```shell
-pip install -r requiriments.txt
+pip install -r requirements.txt
 ```
 
 or alternatively in `Conda` environment:
