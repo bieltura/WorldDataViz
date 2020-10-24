@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div class="topnav">
+            <h1>Red Neuronal Convolucional basada en Grafos (GCNN)</h1>
+            <h2>para predicciones espacio-contextuales en Barcelona</h2>
+        </div>
+
+        <table style="width: 100%; align-items: baseline;"> 
+            <tr>
+                <th>
+                    <div class='child float-left-child'>Visualizar distintos ejemplos en varias tareas de entrenamiento: </div>
+                    <div class='child float-left-child'>
+                        <select onchange="show_prediction()" name="predictions" id="pred_dropdown">
+                            <option value="alquiler_m2">Alquiler mensual (€/m2)</option>
+                            <option value="alquiler_mensual">Alquiler mensual (€)</option>
+                            <option value="aturs">Aturados anuales</option>
+                            <option value="aturs_estiu">Aturados en verano</option>
+                            <option value="edad_media">Edad media población</option>
+                            <option value="espvida">Esperanza de vida</option>
+                            <option value="superficie_alquiler">Superfície media en Alquiler</option>
+                            <option value="superficie_habitatge">Superfície media por habitage</option>
+                        </select> 
+                    </div>
+
+                    <div class="training">
+                        Parámetros usados en la simulación:
+                        <ul>
+                            <li><b>Loss:</b> Mean Squared Error</li>
+                            <li><b>Optimizer:</b> ADAM</li>
+                            <li><b>Learning rate:</b> 0.0005</li>
+                            <li><b>Epoch:</b> 200</li>
+                        </ul>
+                    </div>       
+                    <img id="loss_img" width=400 height=320 src="output/loss/loss_alquiler_m2.gif">
+                                 
+                </th>
+                <th>
+                    <img id="heatmap_img" width=550 height=550 src="output/heatmap/heatmap_alquiler_m2.gif">
+
+                </th>
+            </tr> 
+        </table>
+
+        <style>
+            body {
+                margin: 0;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            h1 {
+                color:#ffffff;
+                padding-left: 16px;
+            }
+
+            h2 {
+                color:#490134;
+                padding-left: 16px;
+            }
+
+            .topnav {
+                overflow: hidden;
+                background-color: rgba(255, 153, 0, 0.829);
+            }
+
+            .float-left-child {
+                padding-left: 16px;
+                padding-top: 16px;
+                float: left
+            }
+
+            .training {
+                clear: both;
+                text-align:start;
+                padding-left: 50px;
+                padding-top: 16px;
+                font-size: small;
+            }
+        </style>
+
+        <script>
+            function show_prediction() {
+                // Get the dropdown menu
+                var dropdown = document.getElementById("pred_dropdown");
+                var prediciton = dropdown.value;
+
+                // Get and load the heatmap
+                var heatmap = document.getElementById("heatmap_img")
+                heatmap.src = "output/heatmap/heatmap_" + prediciton + ".gif";
+                heatmap.width = 550;
+                heatmap.height = 550;
+
+                // Get and load the loss values
+                var loss = document.getElementById("loss_img")
+                loss.src = "output/loss/loss_" + prediciton + ".gif";
+                loss.width = 400;
+                loss.height = 320;
+            }
+        </script>
+
+    </body>
+</html>
