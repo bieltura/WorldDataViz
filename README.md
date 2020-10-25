@@ -4,7 +4,7 @@
 
 This repository contains the Pytorch implementation and Jupyter Notebooks of the presented project in the __World Data Viz Challange 2020__ for the city of Barcelona.
 
-For the __URL to the visualization__, download the repository and open `visualization.html`. Alternatively you can open the Github page at:
+For the __URL to the visualization__, download the repository and open `visualization.html`. Alternatively you can open the Github page at (with some lag in the simulation):
 > <https://bieltura.github.io/WorldDataViz/visualization.html>
 
 To see the implementation, open the Jupyter Notebook `notebook.ipynb` with a Notebook visualizer.
